@@ -4,14 +4,14 @@
 
 ---
 
-### ⚡ Operational Philosophy
+### Operational Philosophy
 > "Most systems focus on convenience. We focus on **Precision & Cinematic Performance**."
 
 I build digital instruments—high-fidelity, data-driven applications that bridge the gap between biological research and avant-garde luxury. Specializing in **AI Infrastructure** and **Immersive UI/UX**.
 
 ---
 
-### 🏆 Achievements & Protocol Status
+### Achievements & Protocol Status
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nleins5&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%" />
@@ -19,7 +19,7 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-### 💻 Core Operations & Stack
+### Core Operations & Stack
 
 | Domain | Primary Technologies |
 | :--- | :--- |
@@ -27,11 +27,4 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 | **Data & AI** | Jupyter, Pandas, Scikit-learn |
 | **Frontend** | React, TailwindCSS, HTML5/CSS3 |
 | **Infrastructure** | Git, GitHub Actions, Linux/Bash |
-
-<br />
-
-<div align="center">
-  <code><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/status.gif" width="12px" /> SYSTEM OPERATIONAL</code>
-</div>
-
 
