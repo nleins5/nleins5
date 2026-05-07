@@ -13,14 +13,14 @@
 
 ---
 
-### ⚡ Operational Philosophy
+###  Operational Philosophy
 > "Most systems focus on convenience. We focus on **Precision & Cinematic Performance**."
 
 I build digital instruments—high-fidelity, data-driven applications that bridge the gap between biological research and avant-garde luxury. Specializing in **AI Infrastructure** and **Immersive UI/UX**.
 
 ---
 
-### 🛠 Tech Stack & Protocol
+###  Tech Stack & Protocol
 
 <div align="center">
   <table>
@@ -61,7 +61,7 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-### 📊 System Telemetry
+###  System Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nleins5&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D12&title_color=C9A84C&text_color=FAF8F5&icon_color=C9A84C" width="48%" />
@@ -70,7 +70,7 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-### 🏆 Achievements & Protocol Status
+###  Achievements & Protocol Status
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nleins5&theme=midnight-purple&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%" />
@@ -78,7 +78,7 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-### 🚀 Featured Deployments
+###  Featured Deployments
 
 - **[BahnPulse (DB Delay Predictor)](https://github.com/nleins5/db-delay-predictor)** - Cinematic rail delay forecasting using Random Forest & GSAP.
 - **[Aether Protocol](https://github.com/nleins5/aether-protocol)** - High-performance AI gateway for multi-provider orchestration.
