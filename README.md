@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Anh%20Nguyen&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20|%20AI%20Infrastructure&descAlignY=51&descFontSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anh%20Nguyen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20|%20AI%20Infrastructure&descAlignY=51&descFontSize=18" width="100%" />
 </div>
 
 ---
@@ -20,6 +20,6 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 ---
 
 <div align="center">
-  <h3>📊 Programming Languages Analysis</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="350" />
 </div>
+
