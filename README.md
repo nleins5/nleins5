@@ -19,8 +19,7 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-### 📊 Programming Languages Analysis
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+  <h3>📊 Programming Languages Analysis</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" />
 </div>
