@@ -19,9 +19,14 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="380" />
-</div>
+### 💻 Core Operations & Stack
+
+| Domain | Primary Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, C++ |
+| **Data & AI** | Jupyter, Pandas, Scikit-learn |
+| **Frontend** | React, TailwindCSS, HTML5/CSS3 |
+| **Infrastructure** | Git, GitHub Actions, Linux/Bash |
 
 <br />
 
