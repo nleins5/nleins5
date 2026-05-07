@@ -19,10 +19,8 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
+### 📊 Programming Languages Analysis
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D12&height=100&section=footer&text=Operational%20Since%202024&fontSize=20&fontAlignY=60" width="100%" />
-  <p>
-    <img src="https://img.shields.io/badge/Status-System%20Operational-green?style=flat-square&logo=statuspage&logoColor=white" />
-    <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-blue?style=flat-square&logo=google-maps&logoColor=white" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nleins5&layout=compact&hide_border=true&bg_color=0D0D12&title_color=C9A84C&text_color=FAF8F5&langs_count=8" width="100%" />
 </div>
