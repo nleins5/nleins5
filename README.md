@@ -20,6 +20,13 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nleins5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="380" />
 </div>
+
+<br />
+
+<div align="center">
+  <code><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/status.gif" width="12px" /> SYSTEM OPERATIONAL</code>
+</div>
+
 
