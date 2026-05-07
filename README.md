@@ -1,26 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Anh%20Nguyen&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20|%20AI%20Infrastructure&descAlignY=51&descFontSize=20" width="100%" />
-
-  <p align="center">
-    <a href="https://github.com/nleins5">
-      <img src="https://img.shields.io/github/followers/nleins5?label=Followers&style=for-the-badge&color=2E4036&labelColor=1A1A1A" />
-    </a>
-    <a href="https://github.com/nleins5?tab=repositories">
-      <img src="https://img.shields.io/github/stars/nleins5?label=Total%20Stars&style=for-the-badge&color=CC5833&labelColor=1A1A1A" />
-    </a>
-  </p>
 </div>
 
 ---
 
-###  Operational Philosophy
+### ⚡ Operational Philosophy
 > "Most systems focus on convenience. We focus on **Precision & Cinematic Performance**."
 
 I build digital instruments—high-fidelity, data-driven applications that bridge the gap between biological research and avant-garde luxury. Specializing in **AI Infrastructure** and **Immersive UI/UX**.
 
 ---
 
-###  Tech Stack & Protocol
+### 🛠 Tech Stack & Protocol
 
 <div align="center">
   <table>
@@ -61,24 +52,7 @@ I build digital instruments—high-fidelity, data-driven applications that bridg
 
 ---
 
-###  System Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nleins5&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D12&title_color=C9A84C&text_color=FAF8F5&icon_color=C9A84C" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nleins5&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D12&title_color=C9A84C&text_color=FAF8F5" width="48%" />
-</div>
-
----
-
-###  Achievements & Protocol Status
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nleins5&theme=midnight-purple&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%" />
-</div>
-
----
-
-###  Featured Deployments
+### 🚀 Featured Deployments
 
 - **[BahnPulse (DB Delay Predictor)](https://github.com/nleins5/db-delay-predictor)** - Cinematic rail delay forecasting using Random Forest & GSAP.
 - **[Aether Protocol](https://github.com/nleins5/aether-protocol)** - High-performance AI gateway for multi-provider orchestration.
