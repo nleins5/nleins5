@@ -4,10 +4,9 @@
 
 ---
 
-### Operational Philosophy
-> "Most systems focus on convenience. We focus on **Precision & Cinematic Performance**."
+### About Me
 
-I build reproducible data products that turn ambiguous business questions into measurable decisions. My current work focuses on **causal machine learning**, **forecasting**, and **production model monitoring**.
+I work on data science projects that connect modeling to decisions: who to contact, how much to stock, and which transactions to review. These portfolio case studies use simulated data so the experiments are reproducible and their assumptions are visible.
 
 ---
 
@@ -15,9 +14,9 @@ I build reproducible data products that turn ambiguous business questions into m
 
 | Project | Business question | Evidence |
 | :--- | :--- | :--- |
-| [Causal Retention Lab](https://github.com/nleins5/causal-retention-lab) | Which customers should receive a retention offer? | Uplift modeling, profit policy, **$70K expected incremental value** |
-| [Demand Forecast Command Center](https://github.com/nleins5/demand-forecast-command-center) | How much stock will each store need? | Rolling backtests, prediction intervals, **6.21% WMAPE** |
-| [Fraud Guard MLOps](https://github.com/nleins5/fraud-guard-mlops) | Which transactions should enter manual review? | Cost thresholding, drift monitoring, **65.64% fraud recall** |
+| [Causal Retention Lab](https://github.com/nleins5/causal-retention-lab) | Which customers should receive a retention offer? | Uplift model and an estimated **$70K policy value** in a simulated experiment |
+| [Demand Forecast Command Center](https://github.com/nleins5/demand-forecast-command-center) | How much stock will each store need? | Rolling backtests with **6.21% WMAPE** on simulated demand |
+| [Fraud Guard MLOps](https://github.com/nleins5/fraud-guard-mlops) | Which transactions should enter manual review? | Cost-based review policy with **65.64% recall** on simulated fraud |
 
 ---
 
